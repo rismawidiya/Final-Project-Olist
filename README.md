@@ -1,6 +1,5 @@
 # Breaking Bottlenecks: Delivery Gameplan for Olist
-(Temporary repository for DTI Final Project at Purwadhika Digital Technology School using Olist datasets.)
-Also publised at Purwadhika Dev under [Alpha_Group_DTI_OL_02_FinalProject](https://github.com/PurwadhikaDev/AlphaGroup_DTI_OL_02_FinalProject).
+This is a temporary repository for DTI Final Project at Purwadhika Digital Technology School using Olist datasets, also publised at Purwadhika Dev under [Alpha_Group_DTI_OL_02_FinalProject](https://github.com/PurwadhikaDev/AlphaGroup_DTI_OL_02_FinalProject).
 
 Courtesy of **Team Alpha (DTIDSOL-02)**:  
 - [Josephine Rahma Gunawan](https://github.com/jogoei)  
