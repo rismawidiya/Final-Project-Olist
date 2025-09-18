@@ -191,7 +191,7 @@ To mitigate these risks, we built a classification model to flag late deliveries
 
 These improvements, though modest in percentage terms, translate to meaningful business gains at scale. More importantly, they help Olist preserve its long-term customer relationships, an essential priority for a growth-stage startup in a highly competitive market.
 
-## Recommendation
+## Recommendations
 
 ### Based on EDA
 
