@@ -80,14 +80,10 @@ So, through data-driven insights and predictive modelling, this project aims to 
 
 The analysis uses real-world e-commerce data from Olist, a Brazilian online marketplace. This dataset captures essential aspects of the online retail ecosystem such as customer demographics, order details, product characteristics, seller information, payments, logistics, and customer reviews. It provides a comprehensive view of the factors that influence customer satisfaction, sales performance, and operational efficiency in e-commerce. You can access the dataset [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). 
 
-## Summary of Exploratory Data Analysis 
-The EDA reveals several key associations and patterns:
+## Summary of Exploratory Data Analysis
+We found that late delivery and longer delivery days have association with customer's satisfaction that result in bad review scores. Also, this will impact the brand and business evaluation including potential income revenue of the Olist, since late delivary has association with lower customer retention rate. The EDA reveals several key associations and patterns:
 
 ![Late Delivery Review](https://drive.google.com/uc?export=view&id=1naYcYXNo4oyTqbesREGatvpsggg7BNic)
-
-We found that late delivery and longer delivery days have association with customer's satisfaction that result in bad review scores. Also, this will impact the brand and business evaluation including potential income revenue of the Olist, since late delivary has association with lower customer retention rate.
-
-![Late Delivery Review](https://drive.google.com/uc?export=view&id=1UxjIKjJza7BUcNSen1e539UZZtZKfyIr)
 
 **1. Delivery Performance, Customer Satisfaction, and Retention**
 - From all orders, the late delivery and on-time delivery percentage is 7.92% vs 92.08%, respectively. 
@@ -99,8 +95,6 @@ We found that late delivery and longer delivery days have association with custo
     - Customer retention is measurably lower among those experiencing late first orders: 2.51% retention vs. 3.04% for on-time, a significant difference (Chi-Square, p<0.01).
 
 ![OTD Trend](https://drive.google.com/uc?export=view&id=1hUE2rAuvd5p_iAg9maKiDTR94NHymp9I)
-![Products](https://drive.google.com/uc?export=view&id=1bE91rMO3bZQ6jcuICZp7pKVF9QzE3-LX)
-![Hplidays](https://drive.google.com/uc?export=view&id=1aYGUwlTDOclDd6SEo6_9JYrf4ges2CeT)
 
 **2. Operational and Structural Factors Affecting Delivery**
 - The platform’s On-Time Delivery (OTD) rate averaged 84.9% overall, with a high of 94.85% in 2016–2017 and 90% in 2018, indicating variability during increased volume season.
