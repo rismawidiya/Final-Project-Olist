@@ -1,5 +1,5 @@
 # Breaking Bottlenecks: Delivery Gameplan for Olist
-This is a temporary repository for DTI Final Project at Purwadhika Digital Technology School using Olist datasets, also published at Purwadhika Dev under [Alpha_Group_DTI_OL_02_FinalProject](https://github.com/PurwadhikaDev/AlphaGroup_DTI_OL_02_FinalProject).
+This is a temporary repository for DTI Final Project at Purwadhika Digital Technology School using Olist datasets.
 
 Courtesy of **Team Alpha (DTIDSOL-02)**:  
 - [Josephine Rahma Gunawan](https://github.com/jogoei)  
@@ -226,6 +226,5 @@ Use prediction probability to shift delivery estimates (e.g., 4–7 days -> 5–
 
 ---
 
-- Presentation: [Olist Presentation](https://drive.google.com/file/d/1XQbZdmgA15QiHRQZTFcvtPbzkA15NVXc/view?usp=share_link)
 - Tableau: [Olist Tableau Dashboard](https://public.tableau.com/app/profile/risma.w.p./viz/OlistDeliveryPerformanceDashboard/Dashboard1#1)
 - Streamlit: [Olist Streamlit App](https://olist-delivery-predictor-alpha-team.streamlit.app)
